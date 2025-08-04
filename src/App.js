@@ -5,7 +5,7 @@ import Weather from './pages/Weather';
 import TodoList from './pages/TodoList';
 import AddTodo from './pages/AddTodo';
 import Products from './pages/Products';
-import News from './pages/News'; // ✅ ADD THIS IMPORT
+import News from './pages/News'; 
 
 function App() {
   const [todos, setTodos] = useState([]);
